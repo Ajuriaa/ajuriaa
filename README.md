@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a LMS for institutes with Angular and Rails | [COKIDS](https://www.cokids.us/)**
 
-- 🌱 I’m currently learning **ExpressJS + Prisma ORM**
+- 🌱 I’m currently learning **Maven and Java**
 
 - 💬 Ask me about **Angular and Rails!**
 
