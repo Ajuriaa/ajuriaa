@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ajuria</h1>
 <h3 align="center">A passionate fullstack developer from Honduras!</h3>
 
-- 🔭 I’m currently working on **a LMS for institutes with Angular and Rails | [COKIDS](https://www.cokids.us/)**
+- 🔭 I’m currently working on **systems for Honduran Transportation Institute with Angular and Prisma | [IHTT](https://www.transporte.gob.hn/)**
 
 - 🌱 I’m currently learning **Maven and Java**
 
