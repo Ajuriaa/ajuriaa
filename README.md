@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **systems for Honduran Transportation Institute with Angular and Prisma | [IHTT](https://www.transporte.gob.hn/)**
 
-- 🌱 I’m currently learning **Maven and Java**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **Angular and Rails!**
 
