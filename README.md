@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ajuria</h1>
 <h3 align="center">A passionate fullstack developer from Honduras!</h3>
 
-- 🔭 I’m currently working on **systems for Honduran Transportation Institute with Angular and NodeJS + Prisma | [IHTT](https://www.transporte.gob.hn/)**
+- 🔭 I’m currently working on **Serverless App with React and Python**
 
 - 🌱 I’m currently learning **React**
 
