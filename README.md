@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alejoajuria@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1R58gJHSckjRlqGk81qOeiqYyb3FNLQOF/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume]([https://drive.google.com/file/d/1R58gJHSckjRlqGk81qOeiqYyb3FNLQOF/view?usp=drive_link](https://drive.google.com/file/d/10DJuLJpGqnkhDo1YxKBNJOfK9b1ljGnc/view?usp=sharing))**
 
 - ⚡ Fun fact  **I'm 1500 elo stucked in [Chess.com](https://www.chess.com/member/ajuria2402)**
 
